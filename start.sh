@@ -5,7 +5,7 @@ set -e
 # HARDCODED LOGIN DETAILS
 # ==============================
 
-SSH_USER="shadow"
+SSH_USER="shadowhex"
 SSH_PASSWORD="shadow@121"
 
 # ==============================
